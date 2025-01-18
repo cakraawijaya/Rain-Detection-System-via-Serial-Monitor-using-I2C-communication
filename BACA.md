@@ -40,7 +40,7 @@ Hujan adalah fenomena alam yang kerap terjadi di beberapa negara, terutama wilay
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/CH340_USB_Driver
+   https://bit.ly/CH340_USBdriver
    ```
 
    </td></tr></table>
