@@ -40,7 +40,7 @@ Rain is a natural phenomenon that often occurs in several countries, especially 
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/CH340_USB_Driver
+   https://bit.ly/CH340_USBdriver
    ```
 
    </td></tr></table>
