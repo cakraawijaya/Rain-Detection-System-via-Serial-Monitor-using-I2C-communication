@@ -97,9 +97,9 @@ Basically, a device can be communicated with other devices either wirelessly or 
       How to setup the ``` Arduino Mega 2560 ``` board
    
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="780">
 
-      Click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Mega or Mega 2560 ```
+      Select a board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Mega or Mega 2560 ```
               
       </td></tr>
    </table><br><table>
@@ -112,9 +112,9 @@ Basically, a device can be communicated with other devices either wirelessly or 
       How to setup the ``` Arduino Nano ``` board
             
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="775">
 
-      Click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Nano ```
+      Select a board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Nano ```
             
       </td></tr>
    </table><br>
@@ -131,7 +131,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
       How to change the processor of ``` Arduino Mega 2560 ``` board
    
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="780">
 
       There is nothing to change (Skip it)
               
@@ -146,7 +146,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
      How to change the processor of ``` Arduino Nano ``` board
             
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="775">
 
       Click ``` Tools ``` -> ``` Processor ``` -> ``` ATmega328P (Old Bootloader) ```
             
