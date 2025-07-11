@@ -97,9 +97,9 @@ Pada dasarnya, sebuah perangkat dapat dikomunikasikan dengan perangkat lain baik
       Cara mengatur board ``` Arduino Mega 2560 ```
    
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="780">
 
-      Klik ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Mega or Mega 2560 ```
+      Pilih papan dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Mega or Mega 2560 ```
               
       </td></tr>
    </table><br><table>
@@ -112,9 +112,9 @@ Pada dasarnya, sebuah perangkat dapat dikomunikasikan dengan perangkat lain baik
       Cara mengatur board ``` Arduino Nano ```
             
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="775">
 
-      Klik ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Nano ```
+      Pilih papan dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Nano ```
             
       </td></tr>
    </table><br>
@@ -131,7 +131,7 @@ Pada dasarnya, sebuah perangkat dapat dikomunikasikan dengan perangkat lain baik
       Cara mengubah prosesor board ``` Arduino Mega 2560 ```
    
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="780">
 
       Tidak ada yang perlu diubah (Lewati)
               
@@ -146,7 +146,7 @@ Pada dasarnya, sebuah perangkat dapat dikomunikasikan dengan perangkat lain baik
      Cara mengubah prosesor board ``` Arduino Nano ```
             
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="775">
 
       Klik ``` Tools ``` -> ``` Processor ``` -> ``` ATmega328P (Old Bootloader) ```
             
