@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Arduino-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Rain-Detection-System-via-Serial-Monitor-using-I2C-communication
+# Rain Detection System via Serial Monitor using I2C communication
 Rain is a natural phenomenon that often occurs in several countries, especially tropical regions like Indonesia. This phenomenon can be a blessing and can also be a disaster for some people. Basically, this project was created to help the community in terms of rain detection. In addition, it aims to educate as well as make a real contribution to technological development. This project has been done and took approximately 3 days. This device can work well with or without water. When in wet conditions, the sensor will turn on the LED and send a response according to the situation. When dry, the sensor will turn off the LED and send a response according to the situation. The innovation applied in this project is I2C communication. The system interface can be accessed via Serial Monitor.
 
 <br><br>
