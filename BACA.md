@@ -13,7 +13,7 @@ Hujan adalah fenomena alam yang kerap terjadi di beberapa negara, terutama wilay
 | Bagian | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | • Arduino Mega 2560<br>• Arduino Nano V3 |
-| Editor Kode | Arduino IDE |
+| Editor Kode | Arduino IDE 1.8.19 (Versi Lama yang Stabil) |
 | Driver | CH340 USB Driver |
 | Protokol Komunikasi | Inter Integrated Circuit (I2C) |
 | Bahasa Pemrograman | C/C++ |
