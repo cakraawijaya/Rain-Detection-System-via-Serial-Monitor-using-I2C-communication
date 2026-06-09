@@ -13,7 +13,7 @@ Rain is a natural phenomenon that often occurs in several countries, especially 
 | Part | Description |
 | --- | --- |
 | Development Board | • Arduino Mega 2560<br>• Arduino Nano V3 |
-| Code Editor | Arduino IDE |
+| Code Editor | Arduino IDE 1.8.19 (Stable Legacy Version) |
 | Driver | CH340 USB Driver |
 | Communications Protocol | Inter Integrated Circuit (I2C) |
 | Programming Language | C/C++ |
