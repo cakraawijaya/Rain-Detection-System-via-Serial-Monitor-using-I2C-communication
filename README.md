@@ -161,7 +161,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
 
    </td></tr></table><br>
 
-5. Before uploading the program please click: ``` Verify ```.<br><br>
+5. Before uploading the program, please click: ``` Verify ```.<br><br>
 
 6. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
 
